@@ -9,7 +9,7 @@
 | :---: | :-----------: | 
 | Gabriel | Desenvolvedor Full Stack | 
 
-**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. 
+**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados.** 
 
 # Descrição Resumida do Projeto 
 
@@ -17,7 +17,7 @@ Projeto de criação e desenvolvimento de uma calculadora.
 
 # Palavras-Chave 
 
-*JavaScript, Html, CSS3, Calculadora * 
+*JavaScript, Html, CSS3, Calculadora* 
 
 # Resultados Esperados 
 
